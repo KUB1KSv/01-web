@@ -20,7 +20,10 @@ header{
     margin-bottom: 1rem;
     
 }
+
 a{
+    margin-left: 1rem;
+    margin-right: 1rem;
     text-decoration: none;
     color: #E87774;
     font-family: 'Poppins', sans-serif;
@@ -34,8 +37,27 @@ a{
     padding-bottom: 20rem;
 }
 .box {
-    display: block;
-    box-sizing: border-box;
-   padding-left: 15rem;
+    background-color:rgba(232,119,116,0.75);
+    text-align: center;
+  
+
 }
+h1{
+    color: #EAE9F6;
+    font-family:  'Yeseva One', cursive;
+    font-weight: 400;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+h2{
+    color: #E87774;
+    font-family: 'Yeseva One', cursive;
+    font-weight: 400;
+
+}
+.jo{
+    padding:2rem 10rem;
+    margin: auto;
+}
+
 
